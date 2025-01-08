@@ -1,0 +1,13 @@
+Cómo insertar la imagen en tu README.md:
+
+Una vez que la imagen esté subida, puedes insertarla en tu archivo README.md utilizando el siguiente formato Markdown:
+
+Markdown:  ![Nombre descriptivo de la imagen](ruta/a/la/imagen.extensión)
+
+Nombre descriptivo: Un texto corto que describe la imagen (por ejemplo, "Diagrama de flujo del análisis").
+Ruta: La ruta relativa de la imagen desde el archivo README.md. Por ejemplo, si la imagen está en la misma carpeta que el README.md, la ruta sería simplemente el nombre del archivo.
+Ejemplo:
+
+Si tu imagen se llama "diagrama_flujo.png" y está en la misma carpeta que el README.md, escribirías:
+
+Markdown:  ![Diagrama de flujo del análisis](diagrama_flujo.png)
