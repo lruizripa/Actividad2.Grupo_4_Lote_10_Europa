@@ -6,3 +6,6 @@ Este trabajo tiene por objetivo:
 4. Fomentar la presentación y el intercambio de proyectos de bioinformática entre los estudiantes.
 
 Por este motivo, los documentos subidos en este repositorio, no son más que archivos de pruebas. 
+
+##  Representación gráfica de datos y análisis de resultados - Actividad 1 Estadística y R para las Ciencias de la Salud ##
+Esta actividad tiene por objetivo 
