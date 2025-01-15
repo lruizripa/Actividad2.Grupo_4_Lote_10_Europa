@@ -1,5 +1,5 @@
 ---
-  title: "Estadística y R para Ciencias de la Salud"
+title: "Estadística y R para Ciencias de la Salud"
 author: "Lídia Sànchez Camós"
 date: "`r Sys.Date()`"
 output: html_document
