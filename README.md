@@ -1,5 +1,4 @@
 # Actividad2.Grupo_4_Lote_10_Europa
-<<<<<<< HEAD
 
 ## Representación gráfica de datos y análisis de resultados - Actividad 1 Estadística y R para las Ciencias de la Salud
 
