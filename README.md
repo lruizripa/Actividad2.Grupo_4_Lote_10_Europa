@@ -12,10 +12,13 @@ Por este motivo, los documentos subidos en este repositorio, no son más que arc
 
 Esta actividad tiene por objetivo aplicar los conceptos aprendidos sobre **visualización de datos biológicos y análisis estadístico**. Se utilizará el *dataset* que contiene información de la **expresión** de 46 genes en 65 pacientes, cada uno con distintos tipos de tratamiento y características tumorales. El objetivo principal es que seas capaz de interpretar los datos mediante la generación de **gráficos** adecuados utilizando R Studio.
 
-El repositorio está formado por los siguientes directorios:
-- **Datos**: Contiene el *dataset* expresiongenes.csv con *raw data* del estudio.
+El repositorio está formado por los siguientes directorios y ficheros:
+- **Raw Data**: Contiene el *dataset* expresiongenes.csv con *raw data* del estudio y otros archivos de interés.
 - **Scripts**: Contiene el archivo Analisi_prueba.R  con los *scripts* utilizados en el estudio.
 - **Resultados**: Contiene el fichero Actividad-1.html con todos los resultados del estudio derivados de los *scripts*.
->>>>>>> origin/Modificable
+- **Logos css**: Contiene estilos para RMD.
+- **Bibliografía actividad R**: Bibliografía utilizada para realizar el análisis de los datos.
+- **Imágenes en R MarkDown**: Instrucciones para incluir imágenes en R MarkDown.
+- **Metodología**: Información sobre el *dataset*.
 
 
